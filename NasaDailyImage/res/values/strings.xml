@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nasa Daily Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_image_title">Launch of Magnetospheric Multiscale Spacecraft Aboard Atlas V Rocket</string>
+    <string name="test_image_description">The United Launch Alliance Atlas V rocket with NASA\’s Magnetospheric Multiscale (MMS) spacecraft onboard launches from the Cape Canaveral Air Force Station Space Launch Complex 41, Thursday, March 12, 2015, Florida. NASA\’s MMS mission studies the mystery of how magnetic fields around Earth connect and disconnect, explosively releasing energy via a process known as magnetic reconnection. MMS consists of four identical spacecraft that work together to provide the first three-dimensional view of this fundamental process, which occurs throughout the universe.</string>
+    <string name="test_image_date">Fri, 13 Mar 2015 12:00:00 EDT</string>
+    <string name="refresh">Actualizar</string>
+    <string name="wallpaper">Tapiz</string>
+
+</resources>
